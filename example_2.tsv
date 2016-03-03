@@ -1,6 +1,6 @@
 #COM A Comment
-#ONT OME	http://openmicroscopy.org/schema/2015-10
-#ONT CMSO	http://cmso.org/...
+#ONT OME http://openmicroscopy.org/schema/2015-10
+#ONT CMSO http://cmso.org/...
 #COL CMSO:Epoch	Unit:epoch
 CMSO:Epoch	OME:T	OME:X	OME:Y	OME:Z	OME:C	CMSO:Intensity	CMSO:ObjID
 100	0	12	34	2	0	0.456	1
