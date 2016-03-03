@@ -1,5 +1,5 @@
 #(0)
-ElaspedMS	T	X	Y	Z	C	Intensity
+ElapsedMS	T	X	Y	Z	C	Intensity
 100		0	12	34	2	0	0.456
 100		0	12	34	2	1	0.7586
 100		0	12	34	2	2	0.489
@@ -7,7 +7,7 @@ ElaspedMS	T	X	Y	Z	C	Intensity
 200		1	12	34	2	0	0.4567
 
 #(1) - openable in excel, etc.
-CMSO:ElaspedMS	OME:T	OME:X	OME:Y	OME:Z	OME:C	CMSO:Intensity	CMSO:ObjID
+CMSO:ElapsedMS	OME:T	OME:X	OME:Y	OME:Z	OME:C	CMSO:Intensity	CMSO:ObjID
 100		0	12	34	2	0	0.456		1
 100		0	12	34	2	1	0.7586
 100		0	12	34	2	2	0.489
